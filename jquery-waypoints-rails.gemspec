@@ -5,8 +5,8 @@ require "jquery-waypoints-rails/version"
 Gem::Specification.new do |s|
   s.name        = "jquery-waypoints-rails"
   s.version     = JqueryWaypoints::Rails::VERSION
-  s.authors     = ["Wagner Amaral"]
-  s.email       = ["wamaral@wamaral.org"]
+  s.authors     = ["Wagner Amaral", "Daniel Libanori"]
+  s.email       = ["wamaral@wamaral.org", "daniellibanori@gmail.com"]
   s.homepage    = "http://github.com/wamaral/jquery-waypoints-rails"
   s.summary     = "This gem just adds jquery-waypoints to your ASSets"
 
