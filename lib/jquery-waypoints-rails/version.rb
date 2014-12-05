@@ -1,5 +1,5 @@
 module JqueryWaypoints
   module Rails
-    VERSION = "0.0.2.alpha"
+    VERSION = "2.0.5"
   end
 end
